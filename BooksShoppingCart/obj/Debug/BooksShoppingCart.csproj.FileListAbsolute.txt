@@ -1,0 +1,222 @@
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\BooksShoppingCart.dll.config
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\BooksShoppingCart.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\BooksShoppingCart.pdb
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Antlr3.Runtime.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\EntityFramework.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\EntityFramework.SqlServer.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Newtonsoft.Json.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Owin.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Helpers.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Mvc.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Optimization.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Razor.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.Razor.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\WebGrease.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Helpers.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Mvc.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Optimization.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Razor.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.Razor.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Antlr3.Runtime.pdb
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Newtonsoft.Json.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\EntityFramework.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\EntityFramework.SqlServer.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\obj\Debug\BooksShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\obj\Debug\BooksShoppingCart.dll
+C:\Users\YuHua\Documents\Visual Studio 2013\Projects\Practice_C#MVC\BooksShoppingCart\BooksShoppingCart\obj\Debug\BooksShoppingCart.pdb
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\BooksShoppingCart.dll.config
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\BooksShoppingCart.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\BooksShoppingCart.pdb
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Antlr3.Runtime.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\EntityFramework.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\EntityFramework.SqlServer.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Newtonsoft.Json.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Owin.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Helpers.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Mvc.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Optimization.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Razor.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.Razor.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\WebGrease.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Helpers.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Mvc.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Optimization.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Razor.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.Razor.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Antlr3.Runtime.pdb
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Newtonsoft.Json.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\EntityFramework.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\EntityFramework.SqlServer.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\obj\Debug\BooksShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\obj\Debug\BooksShoppingCart.dll
+C:\Users\YuHua\__work\code\ASP.NET\Self\BooksShoppingCart\BooksShoppingCart\obj\Debug\BooksShoppingCart.pdb
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\BooksShoppingCart.dll.config
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\BooksShoppingCart.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\BooksShoppingCart.pdb
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Antlr3.Runtime.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\EntityFramework.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\EntityFramework.SqlServer.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.Core.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Cookies.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Facebook.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Google.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.OAuth.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Twitter.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Newtonsoft.Json.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Owin.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Helpers.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Mvc.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Optimization.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Razor.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.Deployment.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.Razor.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\WebGrease.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Helpers.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Mvc.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Optimization.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\System.Web.Razor.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.Deployment.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\System.Web.WebPages.Razor.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Antlr3.Runtime.pdb
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Newtonsoft.Json.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\EntityFramework.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\EntityFramework.SqlServer.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.Core.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Facebook.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Cookies.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.OAuth.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Google.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.Twitter.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.Helpers.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.Mvc.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.Optimization.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.Razor.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.WebPages.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\EntityFramework.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\obj\Debug\BooksShoppingCart.csprojResolveAssemblyReference.cache
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\obj\Debug\BooksShoppingCart.dll
+F:\GitHub\BooksShoppingCart\BooksShoppingCart\obj\Debug\BooksShoppingCart.pdb
